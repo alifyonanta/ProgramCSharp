@@ -18,6 +18,9 @@ namespace SoloLearn
             Console.WriteLine(arr.Max());
             Console.WriteLine(arr.Min());
             Console.WriteLine(arr.Sum());
+            
+            int x = arr[0]+arr.Min();
+            Console.Write(x);
         }
     }
 }
