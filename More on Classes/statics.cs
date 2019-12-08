@@ -1,3 +1,6 @@
+/*The Main method is static, as it is the starting point of any program. 
+Therefore any method called directly from Main had to be static. */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
