@@ -23,7 +23,7 @@ namespace SoloLearn
             
 		    Console.Write("\nStack: ");
 		    foreach (int i in s)
-		        Console.Write(i + " ");  // 72  59
+		    Console.Write(i + " ");  // 72  59
 		    Console.Write("\nCount: " + s.Count);  // 2
 		}
 	}
