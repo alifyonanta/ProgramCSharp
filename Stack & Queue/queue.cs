@@ -12,6 +12,7 @@ namespace SoloLearn
             q.Enqueue(5);
             q.Enqueue(10);
             q.Enqueue(15);
+	    q.Enqueue(20);
             Console.Write("Queue: ");
             foreach (int i in q)
                 Console.Write(i + " ");  // 5  10  15
