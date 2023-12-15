@@ -11,7 +11,7 @@ namespace SoloLearn
     {
         static void Main(string[] args)
         {
-            string str = "Some text";
+            string str = "Some text test";
             File.WriteAllText("test.txt", str);
             
             string txt = File.ReadAllText("test.txt");
