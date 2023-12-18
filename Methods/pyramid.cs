@@ -25,7 +25,7 @@ namespace SoloLearn
     }
     static void Main(string[] args)
     {
-      DrawPyramid(5);
+      DrawPyramid(7);
     }
   }
 }
