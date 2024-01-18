@@ -26,6 +26,7 @@ namespace SoloLearn
             ba2.SetAll(false);            
             ba1.Set(2, false);
             ba2.Set(3, true);
+            ba2.Set(4, true);
             Console.Write(ba1.And(ba2).Get(3));
         }
     }
