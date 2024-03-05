@@ -23,8 +23,8 @@ namespace SoloLearn
         {
             Stack<int> intStack = new Stack<int>();
             intStack.Push(3);
-            intStack.Push(6);
-            intStack.Push(7);
+            intStack.Push(4);
+            intStack.Push(5);
             
             Console.WriteLine(intStack.Get(1));
         }
