@@ -17,7 +17,7 @@ namespace SoloLearn
         {
             Book b;
             b.title = "Test";
-            b.price = 5.99;
+            b.price = 7.99;
             b.author = "David";
             
             Console.WriteLine(b.title);
