@@ -24,7 +24,7 @@ namespace SoloLearn
         }
         static void Main(string[] args)
         {
-            Box b1 = new Box(14, 3);
+            Box b1 = new Box(14, 9);
             Box b2 = new Box(5, 7);
             Box b3 = b1 + b2;
             
