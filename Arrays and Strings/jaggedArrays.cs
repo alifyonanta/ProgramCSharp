@@ -14,7 +14,7 @@ namespace SoloLearn
             {
                 new int[ ] {1,8,2,7,9},
                 new int[ ] {2,4,6},
-                new int[ ] {33,42,12}
+                new int[ ] {33,42,18}
             };
             int x = jaggedArr[2][2];
             Console.WriteLine(x);
